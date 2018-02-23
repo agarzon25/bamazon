@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarzon25/bamazon.git"
+  },
+  "author": "Andrew Garzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agarzon25/bamazon/issues"
+  },
+  "homepage": "https://github.com/agarzon25/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
